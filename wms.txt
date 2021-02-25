@@ -1,0 +1,9 @@
+catastro_ideca
+http://serviciosgis.catastrobogota.gov.co/arcgis/services/ordenamientoterritorial/catastro/MapServer/WMSServer
+
+Imagen con etiquetas IDECA
+http://serviciosgis.catastrobogota.gov.co/arcgis/services/Mapa_Referencia/mapa_hibrido/MapServer/WMSServer
+
+Ortoimágen 2015 rural
+http://serviciosgis.catastrobogota.gov.co/arcgis/services/Imagenes/Ortho2015/MapServer/WMSServer
+

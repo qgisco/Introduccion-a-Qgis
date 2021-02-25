@@ -1,0 +1,20 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=0&amp;dir=dir_n’" name="Bing Satélite" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/{q}?mkt=en-us&amp;it=G,VE,BX,L,LA&amp;shading=hill" name="Bing maps" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png" name="CARTO dark" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png" name="Carto Positron" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="https://mt1.google.com/vt/lyrs=r&amp;x={x}&amp;y={y}&amp;z={z}" name="Google Maps" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="https://mt1.google.com/vt/lyrs=h&amp;x={x}&amp;y={y}&amp;z={z}" name="Google Roads" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://www.google.cn/maps/vt?lyrs=s@189&amp;gl=cn&amp;x={x}&amp;y={y}&amp;z={z}" name="Google Satellite" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="https://mt1.google.com/vt/lyrs=y&amp;x={x}&amp;y={y}&amp;z={z}" name="Google Satellite Hybrid" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="https://mt1.google.com/vt/lyrs=t&amp;x={x}&amp;y={y}&amp;z={z}" name="Google Terrain" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png" name="OSM Black and White" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://tile.thunderforest.com/cycle/{z}/{x}/{y}.png" name="OSM Cycle Map" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="" name="OSM2World-3D (D,A,CH)" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://tile.openstreetmap.org/{z}/{x}/{y}.png" name="OpenStreetMap Mapnick" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://a.tile.stamen.com/terrain/{z}/{x}/{y}.png" name="Stamen Terrain" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://tile.stamen.com/toner/{z}/{x}/{y}.png" name="Stamen Toner" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg" name="Stamen Watercolor" zmin="0" zmax="18" password="" username="" referer="" authcfg=""/>
+    <xyztiles url="http://a.tile.openstreetmap.org/{z}/{x}/{y}.png" name="OpenStreetMap" zmin="0" zmax="19" password="" username="" referer="" authcfg=""/>
+</qgsXYZTilesConnections>

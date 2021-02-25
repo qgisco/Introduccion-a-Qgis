@@ -1,0 +1,14 @@
+IGAC - 1_10.000
+http://geocarto.igac.gov.co:8080/geoservicios/diez_mil/wfs
+
+IGAC - 1_100.000
+http://geocarto.igac.gov.co:8080/geoservicios/cien_mil/wfs
+
+IGAC - 1_25.000
+http://geocarto.igac.gov.co:8080/geoservicios/veinticinco_mil/wfs
+
+IGAC - 1_500.000
+http://geocarto.igac.gov.co:8080/geoservicios/quinientos_mil/wfs
+
+IGAC - Subdirección de Geografía y Cartografía
+http://geocarto.igac.gov.co:8080/geoservicios/cubrimientos/wfs
